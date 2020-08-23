@@ -32,7 +32,7 @@ After hacking finishes, teams will show their projects each other and to the jud
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
-You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
 
 ## Judging Criteria
@@ -43,7 +43,7 @@ Teams will be judged on these five criteria. Judges will weigh the criteria equa
 - __Design:__ Did the team put thought into the ease of use? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
 - __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
-- __Fun:__ How enjoyable is the user experience? DurJam is about creating something people will enjoy; weird and wacky is encouraged! 
+- __Engagement:__ How enjoyable is the user experience? DurJam is about creating something people will enjoy; weird and wacky is encouraged! 
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
@@ -60,5 +60,3 @@ So don't worry about coming up with the next big idea or building the next Faceb
 ## Remember!
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
-
-Happy Hacking from the MLH team!
